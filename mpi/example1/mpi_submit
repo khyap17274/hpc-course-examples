@@ -31,4 +31,3 @@ export I_MPI_PMI_LIBRARY=/usr/lib64/libpmi.so
 
 # Run the parallel MPI executable
 srun ./hello_world_c.exe
-
